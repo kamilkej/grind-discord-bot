@@ -18,8 +18,8 @@ Grind is a multi-function discord bot mostly focusing on easy to configure serve
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kamilkej/repo.git
-   cd repo
+   git clone https://github.com/kamilkej/grind-discord-bot.git
+   cd grind-discord-bot
    ```
 2. Install dependencies:
    ```sh
