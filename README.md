@@ -101,7 +101,6 @@ This project is licensed under the MIT License.
 - pin
 - banner/av etc (server too)
 - webhooks
-- fix fakeperms (sm wrong)
 - sticker
 - emoji steal/add
 - serverinfo/userinfo
@@ -112,7 +111,7 @@ This project is licensed under the MIT License.
 - afk
 - poll
 - msg reaction
-- levels (pain)
+- levels
 - giveaways
 - help command (actually nice)
 ```
