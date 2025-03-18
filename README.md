@@ -52,7 +52,7 @@ Grind is a multi-function discord bot mostly focusing on easy to configure serve
 | `!setupjail` | Set up jail system |
 | `!setupmute` | Set up mute system |
 | `!setuplogs` | Set up logging channels |
-| `!prefix' | Manage bot prefix |
+| `!prefix` | Manage bot prefix |
 
 ### VoiceMaster Commands
 | Command | Description |
